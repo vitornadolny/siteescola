@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css"
+</head>
+<body>
+    <header class="cabecalho">
+    <img class="" src="./img/cabecalho 1.jpg" alt="sala de aula com alunos">
+    <ul class="cabecalho-lista-item">
+    <li class="cabecalho-lista-item"> Alunos</li>
+    <li class="cabecalho-lista-item"> Professor</li>
+    <ul></ul>
+</header>
+<section class="Escola">
+    <div class=”Escola-conteudo”>
+    <h2 class="Escola-titulo">Sobre a escola</h2>
+    <p class="Escola-texto-um">Aqui iremos inserir o primeiro parágrafo do nosso texto, utilizando nossa criatividade, vamos fazer a intodrução</p>
+    <p class="Escola-texto-dois">Aqui iremos inserir o segundo parágrafo do nosso texto, dando continuidade as idéias.
+    </p>
+    </div>
+    <img class="imagem-1-do-texo"src="./img/imagem 1 do texto.png" alt="imagem 1 do texto">
+</section>
+</body>
+</html>
